@@ -1,0 +1,9 @@
+Origin: Anki's Repo
+Label: Anki's Repo
+Suite: stable
+Version: 1.0
+Codename: Anki
+Architectures: iphoneos-arm
+Components: main
+Description: Beta's, themes, and fun!
+MD5Sum:
