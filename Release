@@ -1,8 +1,8 @@
-Origin: Anki's Repo
-Label: Anki's Repo
+Origin: zachatrocity's Repo
+Label: zachatrocity's Repo
 Suite: stable
 Version: 1.0
-Codename: Anki
+Codename: zachatrocity
 Architectures: iphoneos-arm
 Components: main
-Description: Anki's repo is used for testing and fun.
+Description: zachatrocity's repo used mainly for testing
