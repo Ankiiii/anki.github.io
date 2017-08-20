@@ -1,0 +1,15 @@
+Package: <com.github.ankirespring>
+Version: <1.0>
+Architecture: iphoneos-arm
+Maintainer: Anki <email (put in <tyler.clinton@icloud.com>)>
+Depends: <bundleids>
+Filename: debs//<deb>
+Size: <deb in bytes>
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: <section on your repo>
+Description: <A nice little repsing logo supporting all iOS and all devices. Enjoy!>
+Author: Anki <email (put in <tyler.clinton@icloud.com>)>
+Depiction: https://github.com/Ankiiii/anki.github.io<depicfoldername>/index.html
+Name: Anki Respring Logo
