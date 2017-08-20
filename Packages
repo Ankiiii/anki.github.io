@@ -1,15 +1,16 @@
-Package: <com.github.ankirespring>
-Version: <1.0>
+Package: com.anki.ankirespring
+Version: 1.0
+Priority: optional
+Section: Themes
+Maintainer: Anki <tyler.clinton@icloud.com>
+Depends: anemone
 Architecture: iphoneos-arm
-Maintainer: Anki <email (put in <tyler.clinton@icloud.com>)>
-Depends: <bundleids>
-Filename: debs//<deb>
-Size: <deb in bytes>
-MD5sum: <md5 hash of deb>
-SHA1: <sha1 hash of deb>
-SHA256: <sha256 of deb>
-Section: <section on your repo>
-Description: <A nice little repsing logo supporting all iOS and all devices. Enjoy!>
-Author: Anki <email (put in <tyler.clinton@icloud.com>)>
-Depiction: https://github.com/Ankiiii/anki.github.io<depicfoldername>/index.html
-Name: Anki Respring Logo
+Filename: ./debs/com.anki.ankirespring_1.0_iphoneos-arm.deb
+Size: 63.2
+MD5um: 514f94ff5ec3e26dae3712150736ae54
+SHA1: ee3f8f63f2e9befcdb5ccf4aeea250ada79ae360
+SHA256: 0b7af535c00fc710aff6d66d2890eacb900dfea623e484c46690a9575b1e61cd
+Description: A tweak to make the NC rounded, as well as notification banners.
+Name: Roundification
+Author: zachatrocity <zachatrocity@gmail.com>
+Depiction: http://www.zachatrocity.com/repo/depic/com.atrocity.roundificaion/index.html
