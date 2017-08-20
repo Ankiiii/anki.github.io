@@ -1,16 +1,16 @@
-Package: com.anki.ankirespring
-Version: 1.0
+Package: com.anki.notiround
+Version: 0.0.1-6
 Priority: optional
-Section: Themes
+Section: Tweaks
 Maintainer: Anki <tyler.clinton@icloud.com>
-Depends: anemone
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.anki.ankirespring_1.0_iphoneos-arm.deb
-Size: 63.2
-MD5um: 514f94ff5ec3e26dae3712150736ae54
-SHA1: ee3f8f63f2e9befcdb5ccf4aeea250ada79ae360
+Filename: ./debs/com.anki.notiround_0.0.1-6-1_iphoneos-arm.deb
+Size: 8000
+MD5um: 367629a5ddea2969bcdce9decd4523f3
+SHA1: 06f6ceb222ec2be186c9ae3fbe81eca8f9335e58
 SHA256: 0b7af535c00fc710aff6d66d2890eacb900dfea623e484c46690a9575b1e61cd
 Description: A tweak to make the NC rounded, as well as notification banners.
-Name: Roundification
-Author: zachatrocity <zachatrocity@gmail.com>
+Name: Notiround
+Author: zachatrocity <tyler.clinton@icloud.com>
 Depiction: http://www.zachatrocity.com/repo/depic/com.atrocity.roundificaion/index.html
